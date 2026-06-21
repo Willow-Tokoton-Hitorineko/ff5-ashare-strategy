@@ -1,0 +1,4 @@
+group,annual_return,annual_vol,sharpe,max_drawdown,turnover
+Small,0.0986,0.3389,0.2320,-0.7743,0.0685
+Mid,0.2373,0.3270,0.6646,-0.6719,0.1026
+Large,0.2898,0.2977,0.9061,-0.6536,0.0486

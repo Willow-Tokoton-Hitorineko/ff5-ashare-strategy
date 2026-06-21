@@ -1,0 +1,5 @@
+liquidity_group,annual_return,sharpe,max_drawdown,turnover
+Q1(lowest),0.0621,0.1538,-0.7086,0.2859
+Q2,0.0824,0.1997,-0.7149,0.5338
+Q3,0.1817,0.4816,-0.7090,0.5629
+Q4(highest),0.5118,1.3707,-0.6612,0.3419

@@ -1,0 +1,26 @@
+# Large data files (从CSMAR下载)
+data/*.csv
+data/*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Output
+*.xlsx
+*.png
+
+# Keep small result CSVs
+!phase2_优化/results/*.csv
+!phase1_期末/codeB/results/*.csv
+
+# macOS
+.DS_Store
+__MACOSX/
+._*
+
+# IDE
+.idea/
+.vscode/

@@ -1,0 +1,10 @@
+size_group,liquidity_group,impact_cost_bps
+Small,Low,80
+Small,Medium,50
+Small,High,20
+Mid,Low,30
+Mid,Medium,15
+Mid,High,8
+Large,Low,12
+Large,Medium,6
+Large,High,3
